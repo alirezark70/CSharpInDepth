@@ -1,6 +1,6 @@
 
 
-![توضیح عکس](https://github.com/alirezark70/CSharpInDepth/blob/master/assets/indepthbook.jpg)
+![جلد کتاب تخصصی سی شارپ عمیق](https://github.com/alirezark70/CSharpInDepth/blob/master/assets/indepthbook.jpg)
 
 
 <p dir="rtl">
